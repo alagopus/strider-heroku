@@ -43,7 +43,7 @@
     "passport-heroku": "0.0.2",
     "ssh-keypair": "~1.0.0",
     "step": "^1.0.0",
-    "strider-git": "*",
+    "strider-git": "alagopus/strider-git#develop",
     "superagent": "^5.1.0"
   },
   "devDependencies": {
